@@ -1,4 +1,4 @@
-//Задача 4. Доставка товару
+// Задача 4. Доставка товару
 
 function getShippingCost(country) {
     const China = 100;

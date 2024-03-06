@@ -1,4 +1,4 @@
-//Задача 3. Перевірка спаму
+// Задача 3. Перевірка спаму
 
 function checkForSpam(message) {
     message = message.toLowerCase()
