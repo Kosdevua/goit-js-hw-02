@@ -2,7 +2,6 @@
 
 function makeTransaction(quantity, pricePerDroid, customerCredits) {
     let totalSum = quantity * pricePerDroid;
-    console.log(totalSum)
     if (totalSum>customerCredits) {
         return "Insufficient funds!";
     } else {
